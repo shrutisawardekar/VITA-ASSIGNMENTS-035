@@ -26,6 +26,7 @@ internet on demand by the companies and customers.
 to applications.*
 
 **TYPES OF CLOUD SERVICES**
+
 **1. SaaS:**
 *->It is represented as Software As a Service.*
 *->It is one of the most prominent option used as a service for business in Cloud Services.*
@@ -52,6 +53,6 @@ delivers the software over internet.*
 
 **EC-2:**
 *->EC-2 stands for Amazon Elastic Compute Cloud.
-*->It represents the central part of Amazon's cloud computing platform.
-*->It provides users with facility of renting vitual computers on which they can run their own computer applications.
-*->It provides users with facility to create,launch, terminate server instances as and when needed by paying.
+->It represents the central part of Amazon's cloud computing platform.
+->It provides users with facility of renting vitual computers on which they can run their own computer applications.
+->It provides users with facility to create,launch, terminate server instances as and when needed by paying.*
