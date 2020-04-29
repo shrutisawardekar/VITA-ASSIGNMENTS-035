@@ -21,8 +21,8 @@ secure manner.*
 
 **What is a cloud service?**
 ->*Cloud service can be defined as a wide variety of services that are being provided via 
-internet on demand by the companies and customers. 
-->Without using any internal infrastructure or hardware these services provide an easy and affordable access
+internet on demand by the companies and customers.* 
+->*Without using any internal infrastructure or hardware these services provide an easy and affordable access
 to applications.*
 
 **TYPES OF CLOUD SERVICES**
@@ -52,7 +52,7 @@ delivers the software over internet.*
 *->Example-VM(EC-2),Disk Volume.*
 
 **EC-2:**
-*->EC-2 stands for Amazon Elastic Compute Cloud.
-->It represents the central part of Amazon's cloud computing platform.
-->It provides users with facility of renting vitual computers on which they can run their own computer applications.
-->It provides users with facility to create,launch, terminate server instances as and when needed by paying.*
+*->EC-2 stands for Amazon Elastic Compute Cloud.*
+*->It represents the central part of Amazon's cloud computing platform.*
+*->It provides users with facility of renting vitual computers on which they can run their own computer applications.*
+*->It provides users with facility to create,launch, terminate server instances as and when needed by paying.*
