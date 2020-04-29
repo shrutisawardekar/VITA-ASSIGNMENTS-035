@@ -2,16 +2,16 @@
 
 **Security Group**
 *->The security group acts as a virtual firewall for the instance that is being created to control the
- innbbound and the outbound traffic.*
+ inbound and the outbound traffic.*
 
 **Firewall**
 *->It is a network security system that helps in monitoring incoming and outgoing traffic.*
 
 **Inbound**
-*->It refers to the incoming traffic.*
+*->It refers to controlling the incoming traffic.*
 
 **Outbound**
-*->It refers to the outgoing traffic.*
+*->It refers to controlling the outgoing traffic.*
 
 **S3**
 *->It is a storage service that helps in storing and retreiving any amount of data from anywhere on the internet.
